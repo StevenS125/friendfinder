@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "app to help people find others with common interests ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenS125/friendfinder.git"
+  },
+  "author": "Steven Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenS125/friendfinder/issues"
+  },
+  "homepage": "https://github.com/StevenS125/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
